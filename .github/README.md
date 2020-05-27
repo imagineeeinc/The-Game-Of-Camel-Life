@@ -10,6 +10,6 @@ Inspierd by [camel](https://www.macintoshrepository.org/4881-camel) from the Ear
 
 Hold it there, this is not a full fleged graphical interface game with ray tracing camels, its a text based game that runs in your terminal and command line
 
-# Well still how do I play it
+### Well still how do I play it
 
 Ok its a python file, to use it just install python on your computer and run the file and follow what it says
