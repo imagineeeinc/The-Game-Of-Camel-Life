@@ -1,5 +1,7 @@
 # The Game Of Camel Life
 
+# Not Finished
+
 ## What is it?
 
 Well Its a fun stratagy game where you have to keep on living and getting a higher distance trveled
